@@ -1,7 +1,7 @@
 ---
 name: request of assistance
 about: Suggest an idea for this project
-title: ''
+title: this is a request of assistance
 labels: ''
 assignees: ''
 
